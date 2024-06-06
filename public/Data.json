@@ -1,0 +1,81 @@
+[
+    {
+      "bookId": 1,
+      "bookName": "The Silent Observer",
+      "author": "Evelyn Pierce",
+      "image": "https://bing.com/th?id=OIP.38KeNkvnh5N2dWkFCWQntgHaIy" ,
+      "review": "A gripping tale of suspense that delves into the psyche of its characters.",
+      "totalPages": 348,
+      "rating": 4.5,
+      "category": "Thriller",
+      "tags": ["Suspense", "Psychological"],
+      "publisher": "Penguin Books",
+      "yearOfPublishing": 2018
+    },
+    {
+      "bookId": 2,
+      "bookName": "Journey Through Time",
+      "author": "Arthur K. Burns",
+      "image": "https://bing.com/th?id=OIP.vLPPkZNgyAj4fhq196yFQQHaLR",
+      "review": "An imaginative journey that challenges the boundaries of historical fiction.",
+      "totalPages": 421,
+      "rating": 4.7,
+      "category": "Historical Fiction",
+      "tags": ["Time Travel", "Adventure"],
+      "publisher": "HarperCollins",
+      "yearOfPublishing": 2020
+    },
+    {
+      "bookId": 3,
+      "bookName": "Whispers of the Forest",
+      "author": "Luna Green",
+      "image": "https://bing.com/th?id=OIP.-XQXnLjLu9ugb9O0CljJuAHaFj",
+      "review": "A beautifully written story that captures the essence of nature and its mysteries.",
+      "totalPages": 284,
+      "rating": 4.3,
+      "category": "Fantasy",
+      "tags": ["Nature", "Mystery"],
+      "publisher": "Random House",
+      "yearOfPublishing": 2019
+    },
+    {
+      "bookId": 4,
+      "bookName": "Code of the Future",
+      "author": "Maxwell Tech",
+      "image": "https://bing.com/th?id=OIP.Nh_D1oL_am7rkAktGczG4QHaLH",
+      "review": "A thought-provoking exploration of technology's impact on society.",
+      "totalPages": 322,
+      "rating": 4.6,
+      "category": "Science Fiction",
+      "tags": ["Technology", "Dystopia"],
+      "publisher": "Simon & Schuster",
+      "yearOfPublishing": 2021
+    },
+    {
+      "bookId": 5,
+      "bookName": "The Last Symphony",
+      "author": "Elise Vonnegut",
+      "image":"https://bing.com/th?id=OIP.-NAdNlAWBoNQbcZ4byDj3wHaIV",
+      "review": "A poignant tale that weaves a complex web of emotions and music.",
+      "totalPages": 305,
+      "rating": 4.8,
+      "category": "Drama",
+      "tags": ["Music", "Tragedy"],
+      "publisher": "Hachette Book Group",
+      "yearOfPublishing": 2017
+    },
+    {
+      "bookId": 6,
+      "bookName": "Culinary Delights",
+      "author": "Chef Antonio",
+      "image": "https://bing.com/th?id=OIP.7fGXY-EYMdS5MXM-NroRhgHaIg",
+      "review": "A delicious journey through the world's cuisines, with recipes that tantalize the palate.",
+      "totalPages": 254,
+      "rating": 4.9,
+      "category": "Cookbook",
+      "tags": ["Cooking", "International"],
+      "publisher": "Macmillan Publishers",
+      "yearOfPublishing": 2022
+    }
+  ]
+  
